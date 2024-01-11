@@ -1,0 +1,14 @@
+{
+  "name": "tgoetzgr/328/hello",
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Toby Goetz",
+      "email": "Tngoetz@aol.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+
+  }
+}
